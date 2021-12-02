@@ -1,0 +1,71 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"39520fa7d2f236f0",
+      "backup_ads_intertitial":"860402011c125fc0",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Loans",
+      "high_paying_keyword_3": "Mortgage",
+      "high_paying_keyword_4": "Attorney",
+      "high_paying_keyword_5": "Credit",
+	  "high_paying_keyword_6": "Lawyer",
+	  "high_paying_keyword_7": "Donate",
+	  "high_paying_keyword_8": "Degree",
+	  "high_paying_keyword_9": "Hosting",
+	  "high_paying_keyword_10": "Claim",
+	  "high_paying_keyword_11": "Conference",
+	  "high_paying_keyword_12": "Call Trading",
+	  "high_paying_keyword_13": "Software",
+	  "high_paying_keyword_14": "Recovery",
+	  "high_paying_keyword_15": "Transfer",
+	  "high_paying_keyword_16": "Electricity",
+	  "high_paying_keyword_17": "Classes Rehab",
+	  "high_paying_keyword_18": "Treatment",
+	  "high_paying_keyword_19": "Cord",
+	  "high_paying_keyword_20": "Blood",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://cldup.com/sX9lwxuuoq.jpg"
+    }, 
+    {
+      "url_theme": "https://cldup.com/Xw-PB-y3OS.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/wmF8_BpK0b.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/BJugQ8yZTs.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/EVQRf2INRS.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/-7fcX0JN4A.jpg"
+    }, 
+    {
+      "url_theme": "https://cldup.com/3PB5s1Mcaj.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/eqB6dIKhx0.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/2XzsvvnQIq.jpg"
+    },
+	{
+      "url_theme": "https://cldup.com/_UhBJqvOaP.jpg"
+    }
+  ]
+
+
+}
