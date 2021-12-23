@@ -7,14 +7,14 @@
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
-      "select_ads":"ADMOB",
-      "interval":"5",
+      "select_ads":"KIDOZ",
+      "interval":"3",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
       "startappid":""   ,
-      "kidoz_pub_id":"",
-      "kidoz_token":""
+      "kidoz_pub_id":"14528",
+      "kidoz_token":"udZZ3AKa6CDOwDzw4XtYnPJs6CA7CEIZ"
     }
   ],
  
